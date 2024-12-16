@@ -1,0 +1,7 @@
+E:\Program\C#\CSharp基础实践\CSharp基础实践\bin\Debug\CSharp基础实践.exe.config
+E:\Program\C#\CSharp基础实践\CSharp基础实践\bin\Debug\CSharp基础实践.exe
+E:\Program\C#\CSharp基础实践\CSharp基础实践\bin\Debug\CSharp基础实践.pdb
+E:\Program\C#\CSharp基础实践\CSharp基础实践\obj\Debug\CSharp基础实践.csproj.AssemblyReference.cache
+E:\Program\C#\CSharp基础实践\CSharp基础实践\obj\Debug\CSharp基础实践.csproj.CoreCompileInputs.cache
+E:\Program\C#\CSharp基础实践\CSharp基础实践\obj\Debug\CSharp基础实践.exe
+E:\Program\C#\CSharp基础实践\CSharp基础实践\obj\Debug\CSharp基础实践.pdb
